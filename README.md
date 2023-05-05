@@ -1,3 +1,4 @@
 # arduino_acender_led_v1
 # Esquema do projeto:
-![image](https://user-images.githubusercontent.com/126209536/235015514-4210c490-2d73-4e7f-b309-98077b5698c2.png)
+![image](https://user-images.githubusercontent.com/126209536/236569054-c06694b2-e78f-4f02-b2a3-b6697f5f4365.png)
+
